@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-h5t2es.mamen1233hk.cfd/sitemap.xml
